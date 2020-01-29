@@ -7,7 +7,7 @@
   "license": "BSD",
   "dependencies": {
     "async": "^2.6.0",
-    "aws-sdk": "2.262.1",
+    "aws-sdk": "2.598.0",
     "bcrypt": "2.0.1",
     "compression": "^1.7.2",
     "express": "4.16.3",
