@@ -6,7 +6,7 @@
   "private": true,
   "license": "BSD",
   "dependencies": {
-    "chai": "4.1.2",
+    "chai": "4.2.0",
     "mocha": "5.2.0",
     "request-promise-native": "1.0.5",
     "request": "2.87.0",
