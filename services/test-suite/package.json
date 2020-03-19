@@ -7,7 +7,7 @@
   "license": "BSD",
   "dependencies": {
     "chai": "4.1.2",
-    "mocha": "5.2.0",
+    "mocha": "7.1.1",
     "request-promise-native": "1.0.5",
     "request": "2.87.0",
     "socket.io-client": "2.1.1"
